@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "wazuh": {
+      "command": "C:\\mcp-server-wazuh\\target\\release\\mcp-server-wazuh.exe",
+      "args": [],
+      "env": {
+        "WAZUH_API_HOST": "192.168.0.75",
+        "WAZUH_API_PORT": "55000",
+        "WAZUH_API_USERNAME": "wazuh",
+        "WAZUH_API_PASSWORD": "5Z89Q9fqo*?+NZ9h*wawb2*5jz3FRqFA",
+        "WAZUH_INDEXER_HOST": "192.168.0.75",
+        "WAZUH_INDEXER_PORT": "9200",
+        "WAZUH_INDEXER_USERNAME": "admin",
+        "WAZUH_INDEXER_PASSWORD": "r?buu7iYlZGP*xH6ml*EUoHfLmTZhgl6",
+        "WAZUH_TEST_PROTOCOL": "https",
+        "WAZUH_VERIFY_SSL": "false",
+        "RUST_LOG": "debug"
+      }
+    }
+  }
+}
