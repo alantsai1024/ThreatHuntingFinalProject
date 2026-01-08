@@ -5,6 +5,8 @@
 > Thu, Jan 8, 2026 1:39 PM
 >
 > ⚠️ 請先**確保 Wazuh 有安裝**在 **VM** 上面
+>
+> 專案位置：https://github.com/alantsai1024/ThreatHuntingFinalProject?tab=readme-ov-file
 
 ![2026-01-08 14-07-41.gif](https://ppt.cc/fB8HCx@.gif)
 
